@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Johnwesly Uchula</h1>
 <h3 align="center">A passionate Mobile and frontend developer from India</h3>
 
-- 🔭 I’m currently working on [SnapWallet and Talks](https://github.com/johnwesly2002/SnapWallet)
+- 🔭 I’m currently working on [CheckIt](https://github.com/johnwesly2002/CheckIt)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Java and Kotlin**
 
 - 💬 Ask me about **React Native and React**
 
